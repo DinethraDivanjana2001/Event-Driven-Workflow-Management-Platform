@@ -463,10 +463,10 @@ This is a personal educational project. Feel free to reference the architecture 
 
 ## Contact
 
-**Developer**: [Your Name]  
-**LinkedIn**: [Your Profile]  
-**GitHub**: [Your Username]  
-**Email**: [Your Email]
+**Developer**: Dinethra Divanjana Rajapaksha
+**LinkedIn**: Dinethra Rajapaksha 
+**GitHub**: DinethraDivanjana2001 
+**Email**: divanjanad@gmail.com
 
 ---
 
