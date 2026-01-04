@@ -1,0 +1,22 @@
+{
+    "name": "streamops-event-processor",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "StreamOps Event Processor - Kafka consumer for workflow processing",
+    "main": "src/worker.js",
+    "scripts": {
+        "start": "node src/worker.js"
+    },
+    "keywords": [
+        "event-driven",
+        "kafka",
+        "worker"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "kafkajs": "^2.2.4",
+        "axios": "^1.6.2",
+        "dotenv": "^16.3.1"
+    }
+}

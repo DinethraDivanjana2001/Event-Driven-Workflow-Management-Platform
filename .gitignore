@@ -1,0 +1,56 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+dist/
+build/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# OS
+Thumbs.db
+
+# Docker
+*.pid
+*.seed
+*.pid.lock
+
+# Old project files (Java/Maven - to be removed)
+.mvn/
+target/
+*.jar
+*.war
+*.class
+pom.xml
+src/main/
+src/test/
+mvnw
+mvnw.cmd
+.semaphore/
+checkstyle/
+checkstyle.xml
+include/
+test/
+Dockerfile.ubi9
+Jenkinsfile.disable
+renovate.json
+requirements.txt
+setup.py
+sonar-project.properties
+tox.ini
+service.yml
+NOTICE
